@@ -21,4 +21,4 @@ All notes are saved automatically using **LocalStorage**.
 
 Add your screenshot here:
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
