@@ -19,6 +19,5 @@ All notes are saved automatically using **LocalStorage**.
 
 ## 📸 Screenshot
 
-Add your screenshot here:
 
 ![Screenshot](./Screenshot.png)
